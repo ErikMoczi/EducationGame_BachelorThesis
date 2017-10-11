@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SolarSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Planets>
+    <Planet id="1" name="Merkúr">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Merkur?">
+          <Answers>
+            <Answer correct="false" value="2"/>
+            <Answer correct="true" value="1"/>
+            <Answer correct="false" value="5"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Povchová teplota Merkúru cez deň?">
+          <Answers>
+            <Answer correct="false" value="425°C"/>
+            <Answer correct="false" value="400°C"/>
+            <Answer correct="true" value="440°C"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Povchová teplota Merkúru cez noc?">
+          <Answers>
+            <Answer correct="false" value="-250°C"/>
+            <Answer correct="false" value="0°C"/>
+            <Answer correct="true" value="-180°C"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Za akú dlhú dobu obehne Merkúr okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="42 dní"/>
+            <Answer correct="false" value="90 dní"/>
+            <Answer correct="true" value="88 dní"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Ako dlhé je jedno otočenie Merkúru okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="62 dní"/>
+            <Answer correct="false" value="52 dní"/>
+            <Answer correct="true" value="59 dní"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Je na merkúre nejaká atmosféra?">
+          <Answers>
+            <Answer correct="false" value="Neviem"/>
+            <Answer correct="false" value="Nie"/>
+            <Answer correct="true" value="Ano, slabá"/>
+          </Answers>
+        </Question>
+        <Question id="7" name="Koľko mesiacov má planéta Merkúr?">
+          <Answers>
+            <Answer correct="false" value="5"/>
+            <Answer correct="false" value="13"/>
+            <Answer correct="true" value="0"/>
+          </Answers>
+        </Question>
+      </Questions>
+    </Planet>
+    <Planet id="2" name="Venuša">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Venuša?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="2"/>
+            <Answer correct="false" value="4"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Aká je povrchová teplota Venuše?(približne)">
+          <Answers>
+            <Answer correct="false" value="150°C"/>
+            <Answer correct="false" value="0°C"/>
+            <Answer correct="true" value="440°C"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Za akú dlhú dobu obehne Venuša okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="300 dní"/>
+            <Answer correct="false" value="120 dní"/>
+            <Answer correct="true" value="225 dní"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Akú dlhú dobu trvá Venuši jedno otočenie okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="24h"/>
+            <Answer correct="false" value="52 dní"/>
+            <Answer correct="true" value="243 dní"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Koľko mesiacov obieha okolo Venuše?">
+          <Answers>
+            <Answer correct="false" value="2"/>
+            <Answer correct="true" value="0"/>
+            <Answer correct="false" value="1"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Je na Venuši nejaká atmosféra?">
+          <Answers>
+            <Answer correct="false" value="Nie"/>
+            <Answer correct="false" value="Áno, slabá"/>
+            <Answer correct="true" value="Áno, veľmi hustá"/>
+          </Answers>
+        </Question>
+      </Questions>
+    </Planet>
+	<Planet id="3" name="Zem">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Zem?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="3"/>
+            <Answer correct="false" value="5"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Koľko mesiacov obieha okolo zeme?">
+          <Answers>
+            <Answer correct="false" value="3"/>
+            <Answer correct="false" value="0"/>
+            <Answer correct="true" value="1"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Aký vek sa odhaduje planéte Zem?">
+          <Answers>
+            <Answer correct="false" value="5 mld."/>
+            <Answer correct="false" value="3,6 mld."/>
+            <Answer correct="true" value="4,5 mld."/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Akú dlhú dobu trvá Zemi obehnúť Slnko(približne)?">
+          <Answers>
+            <Answer correct="false" value="358"/>
+            <Answer correct="false" value="363,5"/>
+            <Answer correct="true" value="365"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Ako dlhá je jedno otočenie Zeme okolo vlastnej osi(presne)?">
+          <Answers>
+            <Answer correct="false" value="24h 59min a 59s"/>
+            <Answer correct="false" value="24h"/>
+            <Answer correct="true" value="23h 56min a 4s"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Aký čas trvá svetlu cesta zo Slnka na Zem?">
+          <Answers>
+            <Answer correct="false" value="8m 15s"/>
+            <Answer correct="false" value="7m 35s"/>
+            <Answer correct="true" value="8m 20s "/>
+          </Answers>
+        </Question>
+        <Question id="7" name="Koľko percent zemského povrchu tvorí voda?">
+          <Answers>
+            <Answer correct="false" value="75"/>
+            <Answer correct="false" value="80"/>
+            <Answer correct="true" value="71"/>
+          </Answers>
+        </Question>
+        <Question id="8" name="Približný počet ľudí obývajúcich zem?">
+          <Answers>
+            <Answer correct="false" value="6,7 mld."/>
+            <Answer correct="false" value="6 mld."/>
+            <Answer correct="true" value="7,3 mld."/>
+          </Answers>
+        </Question>
+        <Question id="9" name="Aká je priemerná teplota na Zemi?">
+          <Answers>
+            <Answer correct="false" value="20°C"/>
+            <Answer correct="false" value="10 °C"/>
+            <Answer correct="true" value="15 °C"/>
+          </Answers>
+        </Question>
+      </Questions>
+    </Planet>
+	<Planet id="4" name="Mars">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Mars?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="4"/>
+            <Answer correct="false" value="5"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Aká je povrchová teplota na Marse?(približne)">
+          <Answers>
+            <Answer correct="false" value="150°C"/>
+            <Answer correct="false" value="0°C"/>
+            <Answer correct="true" value="440°C"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Za akú dlhú dobu obehne Mars okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="328 dní"/>
+            <Answer correct="false" value="500 dní"/>
+            <Answer correct="true" value="687 dní"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Akú dlhú dobu trvá Marsu jedno otočenie okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="24h"/>
+            <Answer correct="false" value="23h 55m 36s"/>
+            <Answer correct="true" value="24h 37m 23s"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Koľko mesiacov obieha okolo Marsu?">
+          <Answers>
+            <Answer correct="false" value="3"/>
+            <Answer correct="true" value="2"/>
+            <Answer correct="false" value="1"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Je na Marse nejaká atmosféra?">
+          <Answers>
+            <Answer correct="false" value="Nie"/>
+            <Answer correct="false" value="Áno, postačujúca"/>
+            <Answer correct="true" value="Áno, veľmi slabá"/>
+          </Answers>
+        </Question>
+      </Questions>
+    </Planet>
+	<Planet id="5" name="Jupiter">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Jupiter?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="5"/>
+            <Answer correct="false" value="4"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Aká je teplota vrchných vrstiev oblakov na Jupiteri?(približne)">
+          <Answers>
+            <Answer correct="false" value="150°C"/>
+            <Answer correct="false" value="0°C"/>
+            <Answer correct="true" value="-145 °C"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Za akú dlhú dobu obehne Jupiter okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="328 dní"/>
+            <Answer correct="false" value="687 dní"/>
+            <Answer correct="true" value="12 rokov"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Akú dlhú dobu trvá Jupiteru jedno otočenie okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="11h 25m"/>
+            <Answer correct="false" value="23h 55m 36s"/>
+            <Answer correct="true" value="10h"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Koľko mesiacov obieha okolo Jupiteru?">
+          <Answers>
+            <Answer correct="false" value="3"/>
+            <Answer correct="true" value="2"/>
+            <Answer correct="false" value="1"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Je na Jupiteri nejaká atmosféra?">
+          <Answers>
+            <Answer correct="false" value="Nie"/>
+            <Answer correct="false" value="Áno, postačujúca"/>
+            <Answer correct="true" value="Áno, mohutná"/>
+          </Answers>
+        </Question>
+      </Questions>
+    </Planet>
+	<Planet id="6" name="Saturn">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Saturn?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="6"/>
+            <Answer correct="false" value="5"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Za akú dlhú dobu obehne Saturn okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="1 rok"/>
+            <Answer correct="false" value="500 dní"/>
+            <Answer correct="true" value="29 a pol roka"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Akú dlhú dobu trvá Marsu jedno otočenie okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="24h"/>
+            <Answer correct="false" value="11h 20m"/>
+            <Answer correct="true" value="10h 14m"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Koľko mesiacov obieha okolo Saturnu?">
+          <Answers>
+            <Answer correct="false" value="15"/>
+            <Answer correct="true" value="18"/>
+            <Answer correct="false" value="10"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Je na Marse nejaká atmosféra?">
+          <Answers>
+            <Answer correct="false" value="Nie"/>
+            <Answer correct="false" value="Áno, postačujúca"/>
+            <Answer correct="true" value="Áno, veľmi hustú"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Aká je teplota vrchných vrstiev oblakov na Saturne?(približne)">
+          <Answers>
+            <Answer correct="false" value="−150 °C"/>
+            <Answer correct="true" value="−140 °C"/>
+            <Answer correct="false" value="−135 °C"/>
+          </Answers>
+        </Question>
+        <Question id="7" name="Ako sa volá najvýznamnejší mesiac Saturnu? ">
+          <Answers>
+            <Answer correct="false" value="iPhone"/>
+            <Answer correct="true" value="Titan"/>
+            <Answer correct="false" value="Peter"/>
+          </Answers>
+        </Question>
+      </Questions>  
+    </Planet>
+    <Planet id="7" name="Urán">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Urán?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="7"/>
+            <Answer correct="false" value="5"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Za akú dlhú dobu obehne Urán okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="328 dní"/>
+            <Answer correct="false" value="500 dní"/>
+            <Answer correct="true" value="84 rokov"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Akú dlhú dobu trvá Uránu jedno otočenie okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="24h"/>
+            <Answer correct="false" value="18h"/>
+            <Answer correct="true" value="17h 14m"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Koľko mesiacov obieha okolo Marsu?">
+          <Answers>
+            <Answer correct="false" value="3"/>
+            <Answer correct="true" value="21"/>
+            <Answer correct="false" value="1"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Aký dlhý je deň na Uráne?">
+          <Answers>
+            <Answer correct="false" value="1 deň"/>
+            <Answer correct="false" value="1 rok"/>
+            <Answer correct="true" value="42 rokov"/>
+          </Answers>
+        </Question>
+        <Question id="6" name="Aká dlhá je noc na Uráne?">
+          <Answers>
+            <Answer correct="false" value="1 deň"/>
+            <Answer correct="false" value="1 rok"/>
+            <Answer correct="true" value="42 rokov"/>
+          </Answers>
+        </Question>
+      </Questions>
+  	</Planet>
+    <Planet id="8" name="Neptún">
+      <Questions>
+        <Question id="1" name="Koľká v poradí od Slnka je planéta Neptún?">
+          <Answers>
+            <Answer correct="false" value="1"/>
+            <Answer correct="true" value="8"/>
+            <Answer correct="false" value="5"/>
+          </Answers>
+        </Question>
+        <Question id="2" name="Za akú dlhú dobu obehne Neptún okolo slnka(približne)?">
+          <Answers>
+            <Answer correct="false" value="328 dní"/>
+            <Answer correct="false" value="50 rokov"/>
+            <Answer correct="true" value="165 rokov"/>
+          </Answers>
+        </Question>
+        <Question id="3" name="Akú dlhú dobu trvá Uránu jedno otočenie okolo vlastnej osi?">
+          <Answers>
+            <Answer correct="false" value="24h"/>
+            <Answer correct="false" value="18h"/>
+            <Answer correct="true" value="16h 7m"/>
+          </Answers>
+        </Question>
+        <Question id="4" name="Koľko mesiacov obieha okolo Marsu?">
+          <Answers>
+            <Answer correct="false" value="3"/>
+            <Answer correct="true" value="13"/>
+            <Answer correct="false" value="1"/>
+          </Answers>
+        </Question>
+        <Question id="5" name="Ako sa volá najväčsí mesiac Neptúnu? ">
+          <Answers>
+            <Answer correct="false" value="iPhone"/>
+            <Answer correct="true" value="Triton"/>
+            <Answer correct="false" value="Peter"/>
+          </Answers>
+        </Question>
+      </Questions>
+    </Planet>
+  </Planets>
+</SolarSystem>

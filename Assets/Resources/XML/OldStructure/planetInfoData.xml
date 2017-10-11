@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SolarSystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Planets>
+    <Planet id="1" name="Merkur">
+      <Texts>
+        <Line id="1" value="Merkúr je najbližšou planétou k Slnku. Bol pomenovaný podľa rímskeho posla bohov (možno preto, že sa pohybuje po oblohe najrýchlejšie zo všetkých planét)."/>
+        <Line id="2" value="Je známy už od staroveku, hoci je ťažšie pozorovateľný voľným okom."/>
+		<Line id="3" value="Merkúr obehne okolo Slnka približne raz za 88 dní"/>
+		<Line id="4" value="Jedno otočenie okolo vlastnej osi (tzv. hviezdny deň) trvá Merkúru približne 58,7 dní"/>
+		<Line id="5" value="Dĺžka slnečného dňa na tejto planéte je až 176 pozemských dní. "/>
+		<Line id="6" value="Pre pozorovateľa na povrchu Merkúru by 88 pozemských dní svietilo Slnko a ďalších 88 dní by trvala noc."/>
+		<Line id="7" value="Povrch sa môže cez deň v oblasti rovníka rozpáliť až na 400-450 stupňov Celzia."/>
+		<Line id="8" value="Pri takýchto teplotách sa topia aj niektoré známe kovy, napr. cín a olovo. Avšak počas dlhej noci môže teplota klesnúť na mínus 150 °C až mínus 200 °C."/>
+		<Line id="9" value="Takéto obrovské rozdiely teplôt sú okrem iného spôsobené aj tým, že Merkúr takmer nemá atmosféru a táto nie je schopná zadržiavať teplo."/>
+		<Line id="10" value="Merkúr nemá mesiace."/> 
+	  </Texts>
+    </Planet>
+    <Planet id="2" name="Venusa">
+      <Texts>
+        <Line id="1" value="Venuša je druhou planétou v poradí od Slnka. Je pomenovaná podľa rímskej bohyne krásy a lásky."/>
+        <Line id="2" value="Venuša obehne okolo Slnka zhruba raz za 225 dní."/>
+		<Line id="3" value="Venuša je najpomalšie rotujúcou planétou v Slnečnej sústave, jednu otočku vykoná približne raz za 243 dní"/>
+		<Line id="4" value="Podmienky na jej povrchu sú krajne nepriaznivé. Venušu obklopuje hustá atmosféra tvorená prevažne oxidom uhličitým"/>
+		<Line id="5" value="Teplota na povrchu sa pohybuje v rozmedzí zhruba 440 až 480 °C"/>
+		<Line id="6" value="Okolo Venuše neobiehajú žiadne mesiace."/>
+      </Texts>
+    </Planet>
+    <Planet id="3" name="Zem">
+      <Texts>
+        <Line id="1" value="Zem je treťou planétou v poradí od Slnka."/>
+        <Line id="2" value="Zem obehne okolo Slnka približne raz za 365,25 dní"/>
+		<Line id="3" value="Jedno otočenie okolo osi jej trvá 23 hodín 56 minút a 4 sekundy. Avšak kým vykoná jednu otočku okolo osi, posunie sa aj na svojej dráhe okolo Slnka. "/>
+		<Line id="4" value="Teploty sa pohybujú v extrémnych prípadoch zhruba od mínus 90 °C (v Antarktíde) do plus 60 °C (Sahara, Údolie smrti v USA)."/>
+		<Line id="5" value="Priemerná teplota na povrchu planéty je okolo 15 °C."/>
+		<Line id="6" value="Až 71 % zemského povrchu tvoria oceány, zvyšok pevnina."/>
+		<Line id="7" value="Okolo Zeme obieha jeden mesiac, ktorý jednoducho voláme Mesiac"/>
+		<Line id="8" value="Zaujímavosti:"/>
+		<Line id="9" value="Cesta svetlu zo Slnka na zem trvá približne 8 minút a 20 sekund"/>,
+		<Line id="10" value="Planéte Zem sa odhaduje vek na 4,5 miliardy rokov."/>
+		<Line id="11" value="Približný počet ľudí obývajúcich Zem je 7,3 miliardy."/>
+      </Texts>
+    </Planet>
+    <Planet id="4" name="Mars">
+      <Texts>
+        <Line id="1" value="Mars je štvrtá planéta v poradí od Slnka."/>
+        <Line id="2" value="Bol pomenovaný podľa rímskeho boha vojny zrejme kvôli jeho načervenalému zafarbeniu."/>
+		<Line id="3" value="Mars obehne okolo Slnka raz za 687 dní, takže rok je tam skoro dvakrát dlhší ako na Zemi."/>
+		<Line id="4" value="Jednu otočku okolo svojej osi vykoná raz za 24 hodín 37 minút a 23 sekúnd."/>
+		<Line id="5" value="Mars má medzi všetkými planétami v Slnečnej sústave najprijateľnejšie klimatické podmienky na povrchu v porovnaní so Zemou, hoci sa od tých pozemských stále značne odlišujú."/>
+		<Line id="6" value="Atmosféra planéty je veľmi slabá"/>
+		<Line id="7" value="Priemerná teplota povrchu planéty je okolo -56 °C."/>
+		<Line id="8" value="Okolo planéty obiehajú dve prirodzené družice, mesiace Phobos (v preklade strach) a Deimos (v preklade hrôza)"/>		
+      </Texts>
+    </Planet>
+    <Planet id="5" name="Jupiter">
+      <Texts>
+        <Line id="1" value="Jupiter je piatou planétou v poradí od Slnka, je to zároveň najväčšia planéta slnečnej sústavy, bol teda právom pomenovaný po vládcovi rímskych bohov."/>
+        <Line id="2" value="Jeden obeh okolo Slnka trvá Jupiteru takmer 12 rokov"/>
+		<Line id="3" value="Je to najrýchlejšie rotujúca planéta. Jednu otočku okolo vlastnej osi vykoná za necelých 10 hodín."/>
+		<Line id="4" value="Jupiter obklopuje mohutná atmosféra, ktorá sa skladá prevažne z vodíka"/>
+		<Line id="5" value="Jupiter nemá pevný povrch v tom zmysle ako planéty zemského typu, preto sa o povrchovej teplote ako takej nedá hovoriť."/>
+		<Line id="6" value="Ale vrchné vrstvy oblakov majú okolo mínus 145 °C."/>
+      </Texts>
+    </Planet>
+    <Planet id="6" name="Saturn">
+      <Texts>
+        <Line id="1" value="Saturn je v poradí šiesta planéta od Slnka a po Jupiteri druhá najväčšia."/>
+        <Line id="2" value="Saturn má v súčasnosti objavených a pomenovaných 18 mesiacov. "/>
+		<Line id="3" value="Saturn obehne okolo Slnka približne raz za 29 a pol roka."/>
+		<Line id="4" value="Dĺžka jedného dňa je 10h 14m"/>
+		<Line id="5" value="Najväčším a najvýznamnejším mesiacom Saturna je Titan"/>
+		<Line id="6" value="Saturn patrí medzi joviálne planéty, to znamená, že nemá pevný povrch, ale len hustú atmosféru."/>
+		<Line id="7" value="Teplota v hornej oblačnej vrstve dosahuje −140 °C."/>		
+      </Texts>
+    </Planet>
+    <Planet id="7" name="Uran">
+      <Texts>
+        <Line id="1" value="Urán je siedma planéta od Slnka a podľa rozmerov tretia najväčšia."/>
+        <Line id="2" value="Je pomenovaný podľa gréckeho praboha Urana - vládcu nebies"/>
+		<Line id="3" value="Urán obehne okolo Slnka zhruba raz za 84 rokov."/>
+		<Line id="4" value="Okolo svojej osi sa otočí za 17 hodín a 14 minút."/>
+		<Line id="5" value="Deň na póle trvá 42 rokov a nasleduje po ňom 42 rokov dlhá noc"/>
+		<Line id="6" value="Okolo planéty obieha zatiaľ 15 pomenovaných mesiacov a najmenej 6 ďalších, zatiaľ s dočasnými označeniami."/>
+      </Texts>
+    </Planet>
+    <Planet id="8" name="Neptun">
+      <Texts>
+        <Line id="1" value="Neptún je ôsma planéta od Slnka. Podľa veľkosti je štvrtý."/>
+        <Line id="2" value="Saturn obehne okolo Slnka približne raz za 165 rokov."/>
+		<Line id="3" value="Okolo svojej osi sa otočí za 16h hodín a 7 minút."/>
+		<Line id="4" value="Neptún mal k septembru 2007 13 známych mesiacov."/>
+		<Line id="5" value="Zďaleka najväčší a jediný guľatý je Triton"/>
+      </Texts>
+    </Planet>
+  </Planets>
+</SolarSystem>
